@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sergeyfilchenko.github.io/ToDoList_REACT/",
+  "homepage": "https://sergeyfilchenko.github.io/ToDoList",
   "dependencies": {
     "@emotion/react": "^11.7.1",
     "@emotion/styled": "^11.6.0",
